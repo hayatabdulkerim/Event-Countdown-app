@@ -62,22 +62,22 @@ lib/
 ### Add Event Screen
 <img src="screenshots/add-event.jpg" width="300"/>
 
-### Delete Event Screen
+### Delete Event
 <img src="screenshots/delete-event.jpg" width="300"/>
 
 ### Edit Event Screen
 <img src="screenshots/edit-event.jpg" width="300"/>
 
-### Search Event Screen
+### Search Event 
 <img src="screenshots/search-event.jpg" width="300"/>
 
-### Select Event Category Screen
+### Select Event Category 
 <img src="screenshots/select-event-category.jpg" width="300"/>
 
-### View All Added Events Screen
+### View All Added Events 
 <img src="screenshots/view-all-added-events.jpg" width="300"/>
 
-### View Edited Events Screen
+### View Edited Events 
 <img src="screenshots/view-edited-events.jpg" width="300"/>
 
 ### View Event Detail Screen

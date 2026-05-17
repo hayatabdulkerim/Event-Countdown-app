@@ -57,31 +57,31 @@ lib/
 ---
 
 ## Screenshots
-## Screenshots
+
 
 ### Add Event Screen
-![Add Event Screen](screenshots/add-event.jpg)
+<img src="screenshots/add-event.jpg" width="300"/>
 
 ### Delete Event Screen
-![Delete Event Screen](screenshots/delete-event.jpg)
+<img src="screenshots/delete-event.jpg" width="300"/>
 
 ### Edit Event Screen
-![Edit Event Screen](screenshots/edit-event.jpg)
+<img src="screenshots/edit-event.jpg" width="300"/>
 
 ### Search Event Screen
-![Search Event Screen](screenshots/search-event.jpg)
+<img src="screenshots/search-event.jpg" width="300"/>
 
 ### Select Event Category Screen
-![Select Event Category Screen](screenshots/select-event-category.jpg)
+<img src="screenshots/select-event-category.jpg" width="300"/>
 
 ### View All Added Events Screen
-![View All Added Events Screen](screenshots/view-all-added-events.jpg)
+<img src="screenshots/view-all-added-events.jpg" width="300"/>
 
 ### View Edited Events Screen
-![View Edited Events Screen](screenshots/view-edited-events.jpg)
+<img src="screenshots/view-edited-events.jpg" width="300"/>
 
 ### View Event Detail Screen
-![View Event Detail Screen](screenshots/view-event-detail.jpg)
+<img src="screenshots/view-event-detail.jpg" width="300"/>
 ---
 
 ## Getting Started
